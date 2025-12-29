@@ -1,48 +1,55 @@
-# Institutional Buffers & AI Automation
+# AI Governance — Diagnostic Notes
 
-This repository contains a set of research notes examining how AI automation reshapes institutional stability—particularly how replacing certain forms of human work can shift pressure into legal and regulatory systems even when AI systems appear effective.
+This repository contains a small set of **exploratory diagnostic notes** on AI governance, institutional risk, and responsibility allocation under automation.
 
-The focus here is not on model performance, alignment, or bias in isolation, but on **institutional functions that absorb ambiguity, contain error, and manage escalation**—and what happens when those functions are silently removed through automation.
+These notes are part of a **larger, ongoing research system** and are shared here in a deliberately partial form. They are not intended as policy proposals, legal recommendations, or normative arguments. Their purpose is to surface structural mechanisms that often remain implicit in discussions of AI deployment and governance.
 
----
-
-## What this work does
-
-- Identifies **buffering functions** in human roles that are typically invisible to legal analysis because they prevent failures from becoming formally legible.
-- Explains how automating these functions can cause **pressure migration** into courts, regulators, and principals.
-- Offers **diagnostic lenses** for evaluating AI deployment beyond task substitution metrics.
-- Contributes to discussions around AI agents, liability allocation, and law-following AI by highlighting structural failure modes that arise without any explicit rule violation.
+The notes focus on how AI systems interact with existing institutional structures, particularly around discretion, ambiguity, buffering capacity, and responsibility attribution.
 
 ---
 
-## What this work does not do
+## Scope and intent
 
-- It is not a comprehensive theory of law, AI, or institutions.
-- It does not propose jurisdiction-specific regulations or doctrinal reforms.
-- It does not argue for or against automation in general.
-- It does not attempt to formalize or exhaustively define all relevant mechanisms.
+The materials in this repository are:
 
-The notes here are intentionally partial and problem-focused.
+- **Diagnostic, not prescriptive**  
+- **Mechanism-focused, not solution-oriented**  
+- **Exploratory, not comprehensive**  
 
----
+They aim to clarify *why* certain AI deployments generate downstream legal or governance stress even when systems are technically robust or formally compliant.
 
-## Scope and status
-
-The materials in this repository are **stabilized extracts** from a broader ongoing research program on institutional pressure, responsibility, and automation. They are shared as independent diagnostics rather than as a complete framework.
-
-Some notes are written for specific research or policy contexts (e.g. law & AI discussions) and should be read as **interfaces**, not as full representations of the underlying research system.
+They are written to be legible to researchers and practitioners in AI governance, law, and institutional risk analysis, without requiring familiarity with the broader research system they originate from.
 
 ---
 
-## Repository structure
+## Notes
 
-- `/notes/`  
-  Short research notes exploring specific mechanisms or examples (e.g. automation and compliance review, buffering work, escalation dynamics).
+### 1. Structural Misalignment in AI Governance Across Institutional Systems  
+Examines why similar AI systems can stabilize some institutions while destabilizing others, depending on how discretion, ambiguity, and authority are structurally handled.
 
-Additional material may be added selectively. This repository is not intended to be comprehensive or frequently updated.
+### 2. When Automation Removes Buffers: Risk Migration in Institutional Decision-Making  
+Identifies informal human buffering as a stabilizing function and traces how institutional risk migrates when automation removes these roles without structural replacement.
+
+### 3. Responsibility Without Authority: Attribution Gaps in AI-Mediated Decisions  
+Analyzes how AI systems can increase responsibility density at the operational level without increasing corresponding authority, producing persistent attribution and liability gaps.
 
 ---
 
-## Contact / attribution
+## What this repository is not
 
-If you reference or build on ideas from this repository, please cite it directly rather than treating individual notes as standalone intuitions.
+This repository does **not**:
+- advocate for specific governance regimes,
+- argue for or against particular AI technologies,
+- present a unified theory of AI governance,
+- or take a position on national or geopolitical actors.
+
+Any such interpretations should be treated as outside the scope of these notes.
+
+---
+
+## Status
+
+These documents are shared as **working research artifacts**.  
+They may evolve, be superseded, or be withdrawn as the broader research program develops.
+
+They are published here to support discussion, critique, and further inquiry—not as finished conclusions.
